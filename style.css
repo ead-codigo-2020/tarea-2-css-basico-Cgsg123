@@ -31,7 +31,8 @@ p {
     padding-left: 40px;
 }
 
-strong {
+strong,
+em {
     color: gainsboro;
     opacity: 0.33;
 }
