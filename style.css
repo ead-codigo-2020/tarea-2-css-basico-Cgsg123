@@ -30,3 +30,8 @@ p {
 .title { 
     padding-left: 40px;
 }
+
+strong {
+    color: gainsboro;
+    opacity: 0.33;
+}
